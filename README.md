@@ -8,6 +8,8 @@ Esta práctica ha permitido trabajar con diferentes técnicas de procesamiento d
 
 También se desarrolló un demostrador interactivo con la webcam, que incorpora distintos modos de funcionamiento: sin filtro, inversión de canales y detección de bordes con Canny. Por último, se implementó un modo que permite “dibujar” en la imagen mediante el seguimiento de un objeto azul.
 
+En el demostrador, para mostrar el modo activo se utiliza la fuente [**JetBrains Mono**](https://github.com/JetBrains/JetBrainsMono). Su licencia es **OPEN FONT LICENSE Version 1.1** y se encuentra en el archivo [OFL.txt](./font/OFL.txt).
+
 ## Fuentes
 
 Las siguientes fuentes han sido utilizadas durante el desarrollo de la práctica para consultar el funcionamiento de funciones y técnicas de procesamiento de imágenes:

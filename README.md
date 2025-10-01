@@ -1,7 +1,7 @@
 # Visión por Computador | Práctica 2
 
 <p align="center">  
-  <img src="./mandril.png">  
+  <img src="./mandril.jpg">  
 </p>  
 
 Esta práctica ha permitido trabajar con diferentes técnicas de procesamiento digital de imágenes utilizando **OpenCV, Numpy, Matplotlib y Pillow**. Se han implementado operaciones básicas de lectura, conversión y visualización, así como el cálculo de histogramas y la detección de líneas predominantes en una imagen. Además, se han comparado los detectores de bordes **Sobel y Canny**, analizando visualmente sus diferencias.
